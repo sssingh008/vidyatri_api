@@ -1,0 +1,7 @@
+{
+[{"id":"1","name":"Physics","identifier":"Phy","active":"1"},
+{"id":"2","name":"Chemistry","identifier":"Chem","active":"1"},
+{"id":"3","name":"Maths","identifier":"Maths","active":"1"},
+{"id":"4","name":"Biology","identifier":"Bio","active":"1"},
+{"id":"5","name":"GK","identifier":"GK","active":"1"}]
+}
